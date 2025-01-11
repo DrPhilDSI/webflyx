@@ -1,3 +1,2 @@
-# Titles
 
-The Curious Case of Benjamin Button
+echo "* The Internship" > titles.md
